@@ -9,11 +9,11 @@
 il s'agit ici de produire un rapport interactif à destination de la Direction Commerciale de l'Entreprise à partir d'un jeu de données de 10 000 transaction réparties sur quattre (04) ans.
 2. But
 Identifier les préfectures/régions les plus rentables, les catégories/produits les plus performants et proposer des recommandations pour optimiser la stratégie commerciale. En mettant l'accent sur les analyse suivantes:
- -  -Rentabilité par région, préfecture, agence*
- *-* *Produits les plus vendus par catégorie/sous-catégorie*
- *-* *Évolution des ventes dans le temps*
- *-* Corrélation entre coût d’achat et marge
- *-* Répartition géographique des performances
+ -  *Rentabilité par région, préfecture, agence*
+ - *Produits les plus vendus par catégorie/sous-catégorie*
+ - *Évolution des ventes dans le temps*
+ - *Corrélation entre coût d’achat et marge*
+ - *Répartition géographique des performances*
 
 3. Techno
    La listes des technologies utilisées pour construir ce tableau de Bord

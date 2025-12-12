@@ -17,7 +17,7 @@ Identifier les préfectures/régions les plus rentables, les catégories/produit
 
 3. Techno
    La listes des technologies utilisées pour construir ce tableau de Bord
-   📈 Power BI Desktop: Outil de Data visualisation, utilisé pour la création de Tableu de Bord
+   📈 **Power BI Desktop: Outil de Data visualisation, utilisé pour la création de Tableu de Bord**
    📁 Power Query: Pour la transformation et le nettoyage de la donnée 
    🧠 DAX(Data Analysis Expression): utilisé pour le calcul des mesures, des visuals dynamics ainsi que les conditions logiques
    🎁 Data Modeling: Etablir les relations entre les tables, (modélisation en étoile ou flocon), la création de la table de date.
